@@ -1,6 +1,14 @@
 # PersianDigitsML
 
+
+![alt text](image.png)
+
 PersianDigitsML is a project focused on the prediction and classification of Persian handwritten numbers using a combination of machine learning and deep learning techniques. The primary goal of this project is to achieve high accuracy in recognizing Persian digits by exploring both traditional algorithms and advanced deep learning models.
+
+## Dataset
+
+The dataset used in this project is sourced from Kaggle and can be accessed [here](https://www.kaggle.com/datasets/amirmahdiabbootalebi/persian-handwritten-digits). It contains a variety of Persian handwritten digits for training and testing purposes.
+
 
 ## Features
 
